@@ -1,7 +1,7 @@
-div {
+/* div {
     height: 2000px;
     background-color: aqua;
-}
+} */
 
 h1 {
     text-align: center;
@@ -9,4 +9,15 @@ h1 {
 
 p {
     margin-left: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+/*--------------------------------------------------------*/
+
+.textAlignment {
+    text-align: center;
 }
